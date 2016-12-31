@@ -9,7 +9,7 @@
 		"access_key": "{{user `access_key`}}",
 		"secret_key": "{{user `secret_key`}}",
 		"region": "{{user `region`}}",
-		"source_ami": "ami-518bfb3b",
+		"source_ami": "ami-ec458981",
 		"instance_type": "t2.micro",
 		"ssh_username": "fedora",
 		"ami_name": "consul ami {{timestamp}}",
